@@ -1,4 +1,4 @@
-# Gemini Function Calling with LangChain
+# Gemini Function Calling with LangChain.
 
 This project is a demonstration of how to implement function calling (also known as tool use) using Google's Gemini Pro model within the LangChain framework. It provides a clear, minimal example of how to equip a large language model with custom Python functions to perform specific tasks.
 
