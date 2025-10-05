@@ -1,0 +1,6 @@
+1. Install TRAE
+2. INSTALL uv
+3. Install Node JS
+4. Install GEMINI CLI
+5. CREATE GCP project in GCP console console.cloud.google.com 
+6. get API key FROM aistudio.google.com
