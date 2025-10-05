@@ -38,7 +38,7 @@ tools = [
 ]
 
 # Initialize the Google Generative AI model
-llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash")
+llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash-lite")
 # Bind the tools to the model
 llm_with_tools = llm.bind_tools(tools)
 

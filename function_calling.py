@@ -15,7 +15,7 @@ from google.genai import types
 from google import genai
 
 client = genai.Client()
-MODEL='gemini-2.5-flash'
+MODEL='gemini-2.5-flash-lite'
 
 # Function to Get Stock Price
 def get_stock_price(parameters: dict) -> dict:
